@@ -1,0 +1,1 @@
+console.log("Menginisialisasi Project Baru");
